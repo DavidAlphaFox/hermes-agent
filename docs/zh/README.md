@@ -28,6 +28,7 @@
 | 18 | [记忆体系代码级深度分析](memory-architecture-deep-dive.md) | 短期记忆处理、压缩算法代码流程、短期→长期记忆转化机制 |
 | 19 | [clarify 工具设计](clarify-design.md) | agent 向用户提问的原语、回调注入、同步/异步桥接、子代理禁用与降级 |
 | 20 | [消息存储与会话持久化](message-persistence.md) | state.db 两层架构、长会话格式、sessions 账本、压缩链与消息归属、FTS5 检索 |
+| 21 | [上下文管理架构演进](context-management-evolution.md) | 压缩三阶段流水线、反震荡机制、压缩锁与原地压缩、TTFT 优化、工具输出预算、@引用与上下文分解 |
 
 ---
 
